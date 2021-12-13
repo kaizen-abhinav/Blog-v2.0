@@ -2,7 +2,7 @@ require("dotenv").config();
 
 module.exports = {
     // Website title, shown in left sidebar and in page title
-    title: "{ rené.winkelmeyer }",
+    title: "{ Blog }",
     // Site URL to generate absolute URLs. Used across the board.
     url: process.env.URL || "http://localhost:8080",
     // Profile image for left sidebar
@@ -10,21 +10,21 @@ module.exports = {
     // Image alt text for left sidebar
     imageAlt: "René and Einstein",
     // Author name, shown in left sidebar, and used in JSON-LD
-    author: "René Winkelmeyer",
+    author: "Abhinav Varghese Abraham",
     // Site description, shown below site image (optional)
-    description: "My kitchen sink about stuff",
+    description: "working on it",
     // OpenGraph default image, in case you don't have an `image`
     // set in your Markdown frontmatter; relevant for social
     // sharing.
     openGraphDefaultImage: "/assets/images/opengraph.jpg",
     // GitHub ID (optional, remove it not needed), used for link in the left sidebar
-    socialGitHub: "muenzpraeger",
+    socialGitHub: "milleneon",
     // LinkedIn ID  (optional, remove it not needed), used for link in the left sidebar
-    socialLinkedIn: "muenzpraeger",
+    socialLinkedIn: "milleneon",
     // Twitter ID  (optional, remove it not needed), used for link in the left sidebar, and for OpenGraph sharing information
-    socialTwitter: "muenzpraeger",
+    socialTwitter: "milleneon",
     // YouTube ID/Channel  (optional, remove it not needed), used for link in the left sidebar
-    socialYouTube: "UCH60RRaY2GI9m62z1loLjcA",
+    socialYouTube: "",
     // Google Analytics ID  (optional, remove it not needed), used for... well, Google Analytics
     googleAnalytics: "YOUR_GA-ID",
     // Algolia-powered search  (optional, remove it not needed),
