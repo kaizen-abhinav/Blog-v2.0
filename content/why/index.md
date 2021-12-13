@@ -4,4 +4,4 @@ layout: page.njk
 title: Why
 ---
 
-You can put your own page here.
+Its just a simple blog, thats why.
