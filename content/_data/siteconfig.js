@@ -6,9 +6,9 @@ module.exports = {
     // Site URL to generate absolute URLs. Used across the board.
     url: process.env.URL || "http://localhost:8080",
     // Profile image for left sidebar
-    image: "/assets/images/sidebar_profile.jpg",
+    image: "https://i.pinimg.com/550x/89/37/aa/8937aaebfb3c6b530f8a1f9c8778ef99.jpg",
     // Image alt text for left sidebar
-    imageAlt: "René and Einstein",
+    imageAlt: "pfp",
     // Author name, shown in left sidebar, and used in JSON-LD
     author: "Abhinav Varghese Abraham",
     // Site description, shown below site image (optional)
