@@ -1,7 +1,7 @@
 ---
-title: Random post
+title: Post 1
 date: 2021-01-26
-image: /assets/images/2021/coolimage.jpg
+image: "https://media.glamour.com/photos/580e1fc08bd9950546d001f6/master/pass/giphy%20(11).gif"
 ---
 
-This is a super random post.
+working on it
